@@ -17,13 +17,13 @@ pip install pandas numpy scikit-learn transformers
 Prepare the Dataset:
 
 Load the dataset into the project directory. The dataset is a private data.
-Ensure the dataset has columns for the article text and its category.
+make sure the dataset has columns for the article text and its category.
 ### Run the Notebook:
 
 Open the provided Jupyter notebook.
 Follow the steps for preprocessing, training, and evaluation.
 
-###Evaluate the Model:
+### Evaluate the Model:
 
 Check performance metrics such as accuracy and F1 score.
 Use the trained model to classify new articles.
